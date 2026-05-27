@@ -1,4 +1,4 @@
-// ===== GAME STATE =====
+// ===== GAME STATE =====+
 const gameState = {
     currentLevel: 1,
     score: 0,
